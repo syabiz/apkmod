@@ -13,37 +13,37 @@
  "version": "1.0.0",
  "author": "Syabiz Tech",
  "icons": [{
-    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWqQzIyGhMNtrOh5SwzWVwwM-Tz5zhLV9YAbZyH8-U05WdI7QNnHUEDbKi7zshnjCuJKrfSc0UWVhFRQ76D-BaxkRw0BuSEtznknQAY_w3j-KIHXIyDpVLz4tRRUBQkkBgKmfdwf1H4flGCTRuKNuXuGlFF6zcb_RyDZ7AUPub1f-gCD6ZIvsJcnjfdA/s36/android-icon-36x36.png",
+    "src": "https://icons.iconarchive.com/icons/designbolts/free-cute-shaded-social/48/Android-icon.png",
     "sizes": "36x36",
     "type": "image/png",
     "density": "0.75"
   }, {
-    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjS2DAGYY6EJVbnoPT65bVK7xIeGOqnhU45dX0iwd7O1eR8Z_YIhz8Xl9igkcLt6jNR9jObM5TGuUAGz3av5O_uwndkNS8ISHu6RhIq2kH4Tb1IuWePme95gCmKuS_zscxSAyL1lNxQbh1N-i_olFVGSiH2rPzC0vt0s3ioI-vIJ51jIxXFbKgxyF9s5A/s48/android-icon-48x48.png",
+    "src": "https://icons.iconarchive.com/icons/designbolts/free-cute-shaded-social/48/Android-icon.png",
     "sizes": "48x48",
     "type": "image/png",
     "density": "1.0"
   }, {
-    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLZIkpLMrmp05kDBXoydxwVQT1yaYZC_iepL2c1ID9yUcuQ9cnSOLGmRlEGQzwFPzX8FATjynCG4NV9137ivMP5FZAe4pmEQa2OEfAWtb0tquiUQedwBF3qCQ3IKPkhrXTDlg26gdJDT2tqCuK7CIufM0X0YUP73ezKlQIySEpsSlyMNip2PJ4L6veoA/s96/android-icon-96x96.png",
+    "src": "https://icons.iconarchive.com/icons/designbolts/free-cute-shaded-social/72/Android-icon.png",
     "sizes": "72x72",
     "type": "image/png",
     "density": "1.5"
   }, {
-    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkGVfoY3aTyxoaxyPrI1rKxbWtTaiupqWOoAclUXuHkwsppM8WsjzAZirNAI5QmtM69QXbrG1yJoBY-zKDmt7fB-8fZ324q_Ye5PChABzODOqPAKMxGofkLCElDi_oH4Xsy-COR_BtWG8ll-kOsLvT9Pg6sAJN_thhkD-jdE2c1gwVKTdhxLzrIpVoFA/s96/favicon-96x96.png",
+    "src": "https://icons.iconarchive.com/icons/designbolts/free-cute-shaded-social/96/Android-icon.png",
     "sizes": "96x96",
     "type": "image/png",
     "density": "2.0"
   }, {
-    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3wlohkyJR_rGPylSJiU9yUP4GM5gqOtkGgIhrCjMANiuTc2YeCQzqo_hiwKhBUh5oo0guajqzEatG_z7pv1L6i43gC6xFuyLJjN5ggzrGjVVJm-Jdv74V7QKcHbjEfB1hWv-I9hw5MInUxFdDcuV804fN9V6Y-eCEc8itRvXtk2xNccT5KnFsFyWK4g/s144/ms-icon-144x144.png",
+    "src": "https://icons.iconarchive.com/icons/designbolts/free-cute-shaded-social/512/Android-icon.png",
     "sizes": "144x144",
     "type": "image/png",
     "density": "3.0"
   }, {
-    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5nTq94eMYb-AcJ89jOe5J0DyTWrC-bQ6t6x7AXRJ3pofh5ugQd8ryzU_fvoKAOD3dAAMH896IetJfQZkSfw-NXJOoCuigNqMhLozoHUENTV7YzOr2vFDKpqlzNJA2t08eAxmjtYbhb8coQ94SNovnG5FaX_Qu1cIEVVKMRFx-wrMowFUNEvTIIQcNEg/s192/android-icon-192x192.png",
+    "src": "https://icons.iconarchive.com/icons/designbolts/free-cute-shaded-social/512/Android-icon.png",
     "sizes": "192x192",
     "type": "image/png",
     "density": "4.0"
   }, {
-    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikYhIduwzPYB5wOofMZefoMwSEk6WIaZZqAC44XbxpUxRlMdJyTvyxvApEVhVrsXrW7zLBtLMGCKLGvh7b87C4Q-HLCQYDRFlSGZ82xwgrgmLdsJTZr8sWgKJkKNkgtdpi4naJLvBGb0AtJNp5RZEK3oCiuunQX2UMl77RRPV9YP04lkDK7JUv1Ua5iQ/s16000/linkeun.png'",
+    "src": "https://icons.iconarchive.com/icons/designbolts/free-cute-shaded-social/512/Android-icon.png'",
     "sizes": "512x512",
     "type": "image/png",
     "density": "5.0"
