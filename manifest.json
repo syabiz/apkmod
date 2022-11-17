@@ -1,6 +1,6 @@
 {
  "name": "APKMOD™",
- "short_name": "apkmod",
+ "short_name": "APKMOD™",
  "description": "Easily find and download thousands of original APK",
  "scope": "https://apkmod.safelinks.my.id/",
  "lang": "en",
@@ -47,5 +47,6 @@
     "sizes": "512x512",
     "type": "image/png",
     "density": "5.0"
-  }]
+  }],
+    "start_url": "/?utm_source=launcher"
 }
