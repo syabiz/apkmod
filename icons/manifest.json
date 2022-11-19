@@ -13,7 +13,7 @@
  "version": "1.0.0",
  "author": "Syabiz Tech",
  "icons": [{
-    "src": "hhttps://cdn.jsdelivr.net/gh/syabiz/apkmod@main/icons/android-icon-36x36.png",
+    "src": "https://cdn.jsdelivr.net/gh/syabiz/apkmod@main/icons/android-icon-36x36.png",
     "sizes": "36x36",
     "type": "image/png",
     "density": "0.75"
