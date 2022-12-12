@@ -5,7 +5,7 @@
 		<square70x70logo src="https://cdn.statically.io/gh/syabiz/apkmod/main/icons/ms-icon-70x70.png"/>
 		<square150x150logo src="https://cdn.statically.io/gh/syabiz/apkmod/main/icons/ms-icon-150x150.png"/>
 		<square310x310logo src="https://cdn.statically.io/gh/syabiz/apkmod/main/icons/ms-icon-310x310.png"/>		
-		<TileColor>#482DFF</TileColor>
+		<TileColor>#44B770</TileColor>
 		</tile>
 	</msapplication>
 </browserconfig>
